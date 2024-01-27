@@ -1,0 +1,21 @@
+/* Defolt css code Start */
+*{ padding: 0; margin: 0; box-sizing: border-box;}
+/* Defolt css code End*/
+
+/* google fonts start */
+h2{
+  font-family: 'BhuTuka Expanded One', cursive;
+}
+/* google fonts end */
+
+/* Scrole div css code start */
+.scroldiv{
+  padding: 15px;
+  height: 300px;
+  overflow: scroll;
+}
+/* Scrole div css code start */
+
+
+
+
